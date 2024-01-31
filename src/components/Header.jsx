@@ -15,7 +15,7 @@ function Header() {
             {/* <img width="38" src={pizzaHeader} alt="Pizza logo" /> */}
             <div>
               <h1>COTTON</h1>
-              <p>самая лучшая одежда во вселенной</p>
+              <p>Стильно, удобно и без лишних трат</p>
             </div>
           </div>
         </Link>
